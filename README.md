@@ -17,7 +17,6 @@
 - 📋 Add new tasks instantly  
 - ✅ Mark tasks as completed  
 - 🗑️ Delete tasks easily  
-- 💾 Stores your tasks in local storage  
 - 🎨 Beautiful and minimal UI
 
 ---
